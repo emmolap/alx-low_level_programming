@@ -36,5 +36,3 @@ char *string_toupper(char *n)
         return (n);
 
 }
-
-
